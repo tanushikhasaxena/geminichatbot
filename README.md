@@ -1,3 +1,32 @@
+<details>
+  <summary><b>Section Name</b></summary>
+
+  ## Overview
+
+  This section provides a brief overview of the functionality or purpose of the module/component.
+
+  ## Installation
+
+  Instructions on how to install and set up the module/component.
+
+  ## Usage
+
+  Examples and guidelines on how to use the module/component in your project.
+
+  ## Configuration
+
+  Details on any configuration options and how to customize the behavior.
+
+  ## Contributing
+
+  Information for contributors, including guidelines and steps for submitting pull requests.
+
+  ## License
+
+  Details about the license under which the module/component is distributed.
+
+</details>
+
 # Google Gemini-Pro Chat Application
 
 A Streamlit web application that allows users to chat with Google's GenerativeAI (Gemini-Pro). The application enables users to interact with Gemini-Pro in a conversational manner.
