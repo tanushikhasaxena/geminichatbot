@@ -65,6 +65,3 @@ Contributions to the Google Gemini-free Chat Application are welcome! If you hav
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## Contact
-
--   Hema Kalyan - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
